@@ -1,0 +1,6 @@
+title: My Documentation Site
+theme: minima
+header_pages:
+  - index.md
+  - gallery.md
+  - dillinger_sample.md
